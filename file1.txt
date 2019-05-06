@@ -1,2 +1,4 @@
 test 1 - currently untracked
 test 2 - tracked but file now modified
+test 3 - modified but not staged(added) - test diff
+test 4 - modified but not staged(added) - test diff
